@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/ManuCiao/Slack-Bot#readme",
   "dependencies": {
+    "@slack/client": "^3.6.1",
+    "dotenv": "^2.0.0",
     "express": "^4.14.0"
   }
 }
