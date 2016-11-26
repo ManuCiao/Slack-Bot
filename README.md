@@ -1,5 +1,5 @@
-# Weather-Quote BOT
-A SlackBot that will extract a quote relative to the weather in your city...
+# Weather-Location BOT
+The User can ask what is the weather in a specific location to the SlackBot...
 
 #Technologies
 - node.js
@@ -7,10 +7,12 @@ A SlackBot that will extract a quote relative to the weather in your city...
 - slack node sdk
 - mocha
 
-#How to install it
+#How to run it
 
-#How to test it
+```
+git clone https://github.com/ManuCiao/Slack-Bot.git
+npm start
+
+```
 
 #Deployed on Heroku
-
-#My Approach

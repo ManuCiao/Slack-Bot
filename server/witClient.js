@@ -3,6 +3,7 @@
 const request = require('superagent');
 
 function handleWitResponse(res) {
+    console.log(res.entities);
     return res.entities;
 }
 
